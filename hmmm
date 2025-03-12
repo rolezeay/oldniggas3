@@ -3479,9 +3479,9 @@ end)
 })
 
 local Button = Tab:CreateButton({
-   Name = "Better Bypasser (Synergy)",
+   Name = "Server Flasher/Eye Flasher",
    Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Synergy-Networks/products/main/BetterBypasser/loader.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rolezeay/flashermain/refs/heads/main/hmmm"))()
    end,
 })
 
