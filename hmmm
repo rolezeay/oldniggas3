@@ -57,7 +57,7 @@ local Window = Rayfield:CreateWindow({
       RememberJoins = true
    },
 
-   KeySystem = true,
+   KeySystem = false,
    KeySettings = {
       Title = "hands up nigga",
       Subtitle = "key system",
